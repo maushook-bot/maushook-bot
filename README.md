@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mash-boltzman
+- 👋 Hi, I’m @mash-bot
 - 👀 I’m interested in Data Science, Deep Learning, ML, AI, Web Development Projects
 - 🌱 I’m currently learning React-JS
 - 💞️ I’m looking to collaborate on Feature Engineering, ETL, Data Migration
