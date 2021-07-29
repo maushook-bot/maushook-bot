@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mash-bot
+- 👋 Hi, I’m ahmed-maushook
 - 👀 I’m interested in Data Science, Deep Learning, ML, AI, Web Development Projects, Google Cloud Platform
 - 🌱 I’m currently learning React-JS
 - 💞️ I’m looking to collaborate on Feature Engineering, ETL, Data Migration
